@@ -1,0 +1,13 @@
+# Enter your personal information and delete unused entries
+--- 
+- first: Weiqiang
+  last: Yu
+  watiam: w8yu
+  student: 21020022
+  email: w8yu@uwaterloo.ca
+- first: Yichu
+  last: Li
+  watiam: y2792li
+  student: 20817846
+  email: y2792li@uwaterloo.ca
+...
